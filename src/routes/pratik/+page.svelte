@@ -482,7 +482,7 @@
         },
         {
             img: '/trafiklevhaları/levha115d.jpg',
-            name: 'yaya geçidi'
+            name: 'okul geçidi'
         },
         {
             img: '/trafiklevhaları/levha116d.png',
